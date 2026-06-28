@@ -1,4 +1,4 @@
-name: Node.js CI/CD Flow
+name: docker-challenge-master
 
 on:
   push:
